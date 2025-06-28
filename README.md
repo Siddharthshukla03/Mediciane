@@ -1,6 +1,6 @@
 # Mediciane
 This project can be runned using the following commands:-
-Open your terminal of any of your code editor and then clone the project on your system by copying the following ....... link and then mak ea projecr folder on your desktop 
+Open your terminal of any of your code editor and then clone the project on your system by copying the following  link and then mak ea projecr folder on your desktop 
 which will help in storing the project on your device.
 
 After this run # npm install 
